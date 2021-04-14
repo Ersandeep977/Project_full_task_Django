@@ -1,0 +1,1 @@
+web: gunicorn Zeli.wsgi --log-file -
